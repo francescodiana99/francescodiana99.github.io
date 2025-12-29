@@ -1,0 +1,16 @@
+---
+layout: null
+---
+User-agent: *
+Allow: /
+
+# Disallow template folders that don't need indexing
+Disallow: /assets/
+Disallow: /images/
+Disallow: /vendor/
+
+# Explicitly allow indexing of your publication PDFs
+Allow: /files/*.pdf
+
+# Point to your sitemap (ensure your URL is correct)
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
