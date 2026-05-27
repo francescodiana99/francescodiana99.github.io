@@ -12,6 +12,7 @@ Hi! I am Francesco Diana, a third year PhD student at Inria in the [COATI team](
 My research focuses on uncovering privacy vulnerabilities in federated learning by designing novel privacy attacks.
 
 ## News
+* [April 2026]  New preprint! _No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning_ is available [[paper](https://arxiv.org/abs/2604.15063)]
 * [January 2026] I will be participating to the PEPR Cybersécurité Winter School in  Aussois from 26th to 30th January 
 
 * [May 2025] Our paper _Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning_ has been accepted at UAI 2025

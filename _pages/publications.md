@@ -31,6 +31,11 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %} -->
+## 2026
+* **[No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning](https://arxiv.org/abs/2604.15063)**  
+_Francesco Diana_, Chuan Xu, André Nusser, Giovanni Neglia  
+arXiv
+
 
 ## 2025
 
